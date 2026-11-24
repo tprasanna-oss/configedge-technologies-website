@@ -2,7 +2,7 @@ body{font-family:Arial,sans-serif;margin:0;color:#1f2937;background:#f8fafc}head
 
 .site-header{
 background:#07294d;
-padding:25px 0;
+padding:12px 0;
 }
 
 .logo {
@@ -10,7 +10,7 @@ padding:25px 0;
   font-size: 4.8rem;
   font-weight: 800;
   letter-spacing: -1px;
-  margin-bottom: 35px;
+  margin-bottom: 15px;
   line-height: 1.1;
 }
 
