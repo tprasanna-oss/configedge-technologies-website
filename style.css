@@ -5,11 +5,13 @@ background:#07294d;
 padding:25px 0;
 }
 
-.logo{
-color:#fff;
-font-size:3rem;
-font-weight:700;
-margin-bottom:25px;
+.logo {
+    color: #ffffff;
+    font-size: 4rem;
+    font-weight: 800;
+    letter-spacing: -1px;
+    margin-bottom: 30px;
+    text-transform: none;
 }
 
 .nav-menu{
@@ -25,11 +27,11 @@ margin:0;
 list-style:none;
 }
 
-.nav-menu a{
-color:#fff;
-text-decoration:none;
-font-size:1.6rem;
-font-weight:500;
+.nav-menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 500;
 }
 
 .nav-menu a:hover{
