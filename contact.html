@@ -179,17 +179,19 @@ name="botcheck"
 style="display:none;">
 
 <label>Your Name</label>
-<input type="text" placeholder="Your Name">
+<input type="text" name="name" placeholder="Your Name" required>
 
 <label>Email Address</label>
-<input type="email" placeholder="your@email.com">
+<input type="email" name="email" placeholder="your@email.com" required>
 
 <label>Company</label>
-<input type="text" placeholder="Company Name">
+<input type="text" name="company" placeholder="Company Name">
 
 <label>How Can We Help?</label>
 <textarea rows="6"
-placeholder="Briefly describe your Oracle CPQ requirement"></textarea>
+name="message"
+placeholder="Briefly describe your Oracle CPQ requirement"
+required></textarea>
 
 <button type="submit">
 Submit Enquiry
