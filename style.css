@@ -38,3 +38,11 @@ font-weight: 500;
 .nav-menu a:hover{
 color:#00AEEF;
 }
+
+a {
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
